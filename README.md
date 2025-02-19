@@ -1,4 +1,4 @@
-Here’s a general documentation template for your **Hostel Management System** project based on typical functionalities such a system would have. If you need a more detailed version based on the actual files, let me know!  
+  
 
 ---
 
@@ -85,4 +85,3 @@ The **Hostel Management System** is a web-based application designed to manage h
 
 ---
 
-This is a general structure for your documentation. If you need a more detailed version based on your actual code, let me know! 🚀
